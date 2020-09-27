@@ -7,3 +7,4 @@ La creación de un sistema de facturación para que los clientes puedan tener un
 
 -Gladys Ceneris Paez Pereira (Institucional)
 
+-Luis Mauricio Oyola Diaz (Institucional)
